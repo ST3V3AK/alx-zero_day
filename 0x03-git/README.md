@@ -1,3 +1,3 @@
 My second readme
 
-Making sutle changes
+Making subtle changes
